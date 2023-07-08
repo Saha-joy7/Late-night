@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Work Sans;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-one{
+    background-image: url("../images/banner/banner1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+    
+}
+.banner-one-right{
+     padding: 90px;
+}
+.heading-one{
+    color: #151414;
+text-align: right;
+font-size: 30px;
+font-weight: 70;
+padding: 10px;
+
+}
+.paragraph-one{
+    color: var(--dark-02, #444343);
+text-align: right;
+font-size: 15px;
+font-weight: 40;
+line-height: 26px;
+padding: 10px;
+}
+.button-one{
+    color: #FFF,tomato;
+font-size: 8px;
+font-weight: 60;
+text-align: right;
+padding: 10px;
+}
+
