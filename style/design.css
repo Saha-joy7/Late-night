@@ -22,13 +22,13 @@ body{
 .heading-one{
     color: #151414;
 text-align: right;
-font-size: 30px;
+font-size: 50px;
 font-weight: 70;
 padding: 10px;
 
 }
 .paragraph-one{
-    color: var(--dark-02, #444343);
+    color: #444343;
 text-align: right;
 font-size: 15px;
 font-weight: 40;
@@ -42,4 +42,32 @@ font-weight: 60;
 text-align: right;
 padding: 10px;
 }
+
+
+
+
+
+.image-one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px 90px;
+}
+.img-one-left{
+    height: 550px;
+    width: 450px;
+}
+.image-one-right{
+    margin-right: 50px;
+}
+.heading-two{
+    color: #151414;
+    font-size: 40px;
+font-weight: 70;
+}
+.paragraph-two{
+    color: #444343;
+    font-size: 15px;
+font-weight: 40;
+};
 
