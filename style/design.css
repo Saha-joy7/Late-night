@@ -88,13 +88,34 @@ font-weight: 100%;
     justify-content: space-between;
     padding: 100px;  
 height: 92.958px;
+}
 
 
-
-
-
-
-
-
+.mind{
+    background-image: url("../images/watch.png"),url("../images/gradient3.png");
+    height: 100vh;
+    background-position: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+.okk{
+    padding: 100px;
+}
+.heading-three{
+    color: #FFF;
+font-size: 40px;
 
 }
+.bnt-two{
+    
+    
+    
+}
+
+
+
+
+
+
+
+
