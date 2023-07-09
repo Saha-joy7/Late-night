@@ -93,7 +93,6 @@ height: 92.958px;
 
 .mind{
     background-image: url("../images/watch.png"),url("../images/gradient3.png");
-    height: 100vh;
     background-position: cover;
     background-repeat: no-repeat;
     padding: 100px;
@@ -110,6 +109,41 @@ font-size: 40px;
     
     
     
+}
+.last{
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    background-color: #151414;
+    padding: 100px;
+}
+.last-left{
+    color: #FFF;
+}
+.scr{
+    color: #FFF;
+    padding: 30px;
+    font-size: 25px;
+}
+.paragraph-three{
+    padding: 20px;
+    font-size: 12px;
+}
+.heading-four{
+    padding-left: 20px;
+    font-size: 25px;
+}
+.email{
+    padding-left: 20px;
+    font-size: 10px;
+}
+.phone{
+    padding: 20px;
+    font-size: 12px;
+}
+button{
+    padding: 15px;
+    color:  #F15B22;
 }
 
 
