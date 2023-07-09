@@ -4,7 +4,7 @@
 }
 body{
     font-family: Work Sans;
-    font-family: 'Open Sans', sans-serif;
+    
 }
 
 .banner-one{
@@ -13,6 +13,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+    font-family: 'Open Sans', sans-serif;
     
     
 }
@@ -70,4 +71,30 @@ font-weight: 70;
     font-size: 15px;
 font-weight: 40;
 };
+main{
+    width: 100%;
+}
+.plan-title{
+    text-align: center;
+    padding-top: 50px;
+    color: #151414;
+font-size: 40px;
+font-weight: 100%;
 
+
+}
+.plan{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;  
+height: 92.958px;
+
+
+
+
+
+
+
+
+
+}
